@@ -1,0 +1,24 @@
+Icons' purpose:
+- improve user experience
+- save space
+- good touch targets
+ - recognisable and universal
+- look nice
+
+Icon sizes:
+
+small: 12, 16, 24, 32, 48px
+Medium:
+large: 
+
+Use consistent icon styles. 
+
+
+Sources on icons:
+Flaticon.com
+Google Fonts
+Front Awesome
+Fontello
+Ocimoon
+Friconix
+Icons8
